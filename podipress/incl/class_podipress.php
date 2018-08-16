@@ -145,21 +145,21 @@ class PodiPress {
 		);
 		add_settings_field(
             'podipress_url',
-            __('Server URL:', 'podipress'), 
+            __('Server URL', 'podipress'), 
             array( $this, 'podipress_url_callback' ),
             'podio_project_config', 
             'setting_section_id'
 		);      
 		add_settings_field(
             'podipress_name',
-            __('Team name:', 'podipress'), 
+            __('Team name', 'podipress'), 
             array( $this, 'podipress_name_callback' ),
             'podio_project_config', 
             'setting_section_id'
 		);      
 		add_settings_field(
             'podipress_token',
-            __('PodiPress access token:', 'podipress'),
+            __('PodiPress access token', 'podipress'),
             array( $this, 'podipress_token_callback' ),
             'podio_project_config', 
             'setting_section_id'

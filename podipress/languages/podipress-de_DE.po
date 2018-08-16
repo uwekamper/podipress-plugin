@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PodiPress\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-16 16:36+0000\n"
-"PO-Revision-Date: 2018-08-16 16:36+0000\n"
+"POT-Creation-Date: 2018-08-16 16:57+0000\n"
+"PO-Revision-Date: 2018-08-16 16:57+0000\n"
 "Last-Translator: uk <uwe@digitale-revoluzzer.de>\n"
 "Language-Team: Deutsch\n"
 "Language: de-DE\n"
@@ -31,15 +31,15 @@ msgid "PodiPress settings"
 msgstr "PodiPress-Einstellungen"
 
 #: incl/class_podipress.php:148
-msgid "Server URL:"
-msgstr "Server-URL:"
+msgid "Server URL"
+msgstr "Server-URL"
 
 #: incl/class_podipress.php:155
-msgid "Team name:"
-msgstr "Team-Name:"
+msgid "Team name"
+msgstr "Team-Name"
 
 #: incl/class_podipress.php:162
-msgid "PodiPress access token:"
+msgid "PodiPress access token"
 msgstr "PodiPress-Access-Token"
 
 #: incl/class_podipress.php:169

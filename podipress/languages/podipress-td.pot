@@ -30,15 +30,15 @@ msgid "PodiPress settings"
 msgstr ""
 
 #: incl/class_podipress.php:148
-msgid "Server URL:"
+msgid "Server URL"
 msgstr ""
 
 #: incl/class_podipress.php:155
-msgid "Team name:"
+msgid "Team name"
 msgstr ""
 
 #: incl/class_podipress.php:162
-msgid "PodiPress access token:"
+msgid "PodiPress access token"
 msgstr ""
 
 #: incl/class_podipress.php:169
