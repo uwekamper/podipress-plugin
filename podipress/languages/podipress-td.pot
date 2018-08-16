@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-16 17:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: incl/class_podipress.php:85
+msgid "PodiPress cache cleared."
+msgstr ""
+
+#: incl/class_podipress.php:123
+msgid "Settings"
+msgstr ""
+
+#: incl/class_podipress.php:142
+msgid "PodiPress settings"
+msgstr ""
+
+#: incl/class_podipress.php:148
+msgid "Server URL:"
+msgstr ""
+
+#: incl/class_podipress.php:155
+msgid "Team name:"
+msgstr ""
+
+#: incl/class_podipress.php:162
+msgid "PodiPress access token:"
+msgstr ""
+
+#: incl/class_podipress.php:169
+msgid "Enable the local cache"
+msgstr ""
+
+#: incl/class_podipress.php:176
+msgid "Maximum cache age in minutes"
+msgstr ""
+
+#: incl/class_podipress.php:183
+msgid "Delete the cached content"
+msgstr ""
+
+#: incl/class_podipress.php:243
+msgid "Clear cache"
+msgstr ""
+
+#: incl/class_podipress.php:251
+msgid "Cache was cleared."
+msgstr ""
+
+#: incl/class_podipress.php:334
+msgid "Please check the Shortcode."
+msgstr ""

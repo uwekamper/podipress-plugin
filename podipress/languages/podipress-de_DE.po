@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PodiPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-16 15:38+0000\n"
+"PO-Revision-Date: 2018-08-16 15:51+0000\n"
+"Last-Translator: uk <uwe@digitale-revoluzzer.de>\n"
+"Language-Team: Deutsch\n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: incl/class_podipress.php:85
+msgid "PodiPress cache cleared."
+msgstr "PodiPress cache gelöscht."
+
+#: incl/class_podipress.php:123
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: incl/class_podipress.php:142
+msgid "PodiPress settings"
+msgstr "PodiPress-Einstellungen"
+
+#: incl/class_podipress.php:148
+msgid "Server URL:"
+msgstr "Server-URL:"
+
+#: incl/class_podipress.php:155
+msgid "Team name:"
+msgstr "Team-Name:"
+
+#: incl/class_podipress.php:162
+msgid "PodiPress access token:"
+msgstr "PodiPress-Access-Token"
+
+#: incl/class_podipress.php:169
+msgctxt "Checkbox"
+msgid "Enable the local cache"
+msgstr "Lokalen Cache aktivieren:"
+
+#: incl/class_podipress.php:176
+msgid "Maximum cache age in minutes"
+msgstr "Maximale Cache-Zeit in Minuten"
+
+#: incl/class_podipress.php:183
+msgctxt "Description for \"clear cache\" button."
+msgid "Delete the cached content"
+msgstr "Gecachte Inhalte löschen"
+
+#: incl/class_podipress.php:243
+msgctxt "Clear cache button"
+msgid "Clear cache"
+msgstr "Cache löschen"
+
+#: incl/class_podipress.php:251
+msgctxt "Message (alert dialog) after cache has been cleared"
+msgid "Cache was cleared."
+msgstr "Cache wurde gelöscht."
+
+#: incl/class_podipress.php:334
+msgctxt "Error message "
+msgid "Please check the Shortcode."
+msgstr "Bitte überprüfe den Shortcode."
