@@ -342,7 +342,7 @@ class PodiPress {
                     $url_parameter_list =  $_GET;
                     $url_parameter = '/?';
                     foreach( $url_parameter_list as $pkey => $pvalue ) {
-                        $url_parameters[pkey] = $pvalue;
+                        $url_parameters[$pkey] = $pvalue;
                     }
                 }
 				foreach( $args as $pkey => $pvalue ) {
