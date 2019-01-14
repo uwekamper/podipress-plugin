@@ -5,7 +5,7 @@
  * Plugin Name: PodiPress
  * Plugin URI: https://podipress.com/plugin/
  * Description: Enables you to connect your WordPress to Podio using PodiPress
- * Version: 0.0.6
+ * Version: 0.0.7
  * Author: Friedhelm Oja, Uwe Kamper
  * Author URI: https://podipress.com/
  * Text Domain: podipress

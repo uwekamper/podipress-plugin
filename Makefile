@@ -1,4 +1,4 @@
-VERSION = 0.0.6
+VERSION = 0.0.7
 
 pot:
 	xgettext podipress/incl/class_podipress.php --keyword=__ -d podipress -o podipress/languages/podipress-td.pot
