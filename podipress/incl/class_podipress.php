@@ -370,7 +370,7 @@ class PodiPress {
 					$cached = $wpdb->get_row( 
 						$wpdb->prepare("SELECT * FROM `$table_name` WHERE cache_key = %s", $request_url)
 					);
-					if ( !is_null(cached) && ($cached->expires > current_time('mysql', true)) ) {
+					if ( !is_null($cached) && ($cached->expires > current_time('mysql', true)) ) {
 						return '<!-- PodiPress cache, expires ' . $cached->expires .' -->' . $cached->cache_value;
 					}
 				}
